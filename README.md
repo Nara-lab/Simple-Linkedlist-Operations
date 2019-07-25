@@ -1,5 +1,5 @@
 # Simple Linkedlist Operations
-# single linked list
+# single, Doubly, circuler linked list
 # delete node
 # add new node
 # reverse linkedlist
